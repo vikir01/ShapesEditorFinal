@@ -16,3 +16,9 @@ C:\Users\Viki\Desktop\Final\ClassLibraryShapes\obj\Debug\ClassLibraryShapes.cspr
 C:\Users\Viki\Desktop\Final\ClassLibraryShapes\obj\Debug\ClassLibraryShapes.csproj.CoreCompileInputs.cache
 C:\Users\Viki\Desktop\Final\ClassLibraryShapes\obj\Debug\ClassLibraryShapes.dll
 C:\Users\Viki\Desktop\Final\ClassLibraryShapes\obj\Debug\ClassLibraryShapes.pdb
+C:\Users\Viki\Desktop\ShapesEditorFinal-main\Final\ClassLibraryShapes\bin\Debug\ClassLibraryShapes.dll
+C:\Users\Viki\Desktop\ShapesEditorFinal-main\Final\ClassLibraryShapes\bin\Debug\ClassLibraryShapes.pdb
+C:\Users\Viki\Desktop\ShapesEditorFinal-main\Final\ClassLibraryShapes\obj\Debug\ClassLibraryShapes.csproj.AssemblyReference.cache
+C:\Users\Viki\Desktop\ShapesEditorFinal-main\Final\ClassLibraryShapes\obj\Debug\ClassLibraryShapes.csproj.CoreCompileInputs.cache
+C:\Users\Viki\Desktop\ShapesEditorFinal-main\Final\ClassLibraryShapes\obj\Debug\ClassLibraryShapes.dll
+C:\Users\Viki\Desktop\ShapesEditorFinal-main\Final\ClassLibraryShapes\obj\Debug\ClassLibraryShapes.pdb
