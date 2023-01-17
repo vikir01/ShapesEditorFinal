@@ -1,0 +1,18 @@
+C:\viki\C#\ClassLibraryShapes\bin\Debug\ClassLibraryShapes.dll
+C:\viki\C#\ClassLibraryShapes\bin\Debug\ClassLibraryShapes.pdb
+C:\viki\C#\ClassLibraryShapes\obj\Debug\ClassLibraryShapes.csprojAssemblyReference.cache
+C:\viki\C#\ClassLibraryShapes\obj\Debug\ClassLibraryShapes.csproj.CoreCompileInputs.cache
+C:\viki\C#\ClassLibraryShapes\obj\Debug\ClassLibraryShapes.dll
+C:\viki\C#\ClassLibraryShapes\obj\Debug\ClassLibraryShapes.pdb
+C:\viki\C#\Almost final\ClassLibraryShapes\bin\Debug\ClassLibraryShapes.dll
+C:\viki\C#\Almost final\ClassLibraryShapes\bin\Debug\ClassLibraryShapes.pdb
+C:\viki\C#\Almost final\ClassLibraryShapes\obj\Debug\ClassLibraryShapes.csprojAssemblyReference.cache
+C:\viki\C#\Almost final\ClassLibraryShapes\obj\Debug\ClassLibraryShapes.csproj.CoreCompileInputs.cache
+C:\viki\C#\Almost final\ClassLibraryShapes\obj\Debug\ClassLibraryShapes.dll
+C:\viki\C#\Almost final\ClassLibraryShapes\obj\Debug\ClassLibraryShapes.pdb
+C:\Users\Viki\Desktop\Final\ClassLibraryShapes\bin\Debug\ClassLibraryShapes.dll
+C:\Users\Viki\Desktop\Final\ClassLibraryShapes\bin\Debug\ClassLibraryShapes.pdb
+C:\Users\Viki\Desktop\Final\ClassLibraryShapes\obj\Debug\ClassLibraryShapes.csproj.AssemblyReference.cache
+C:\Users\Viki\Desktop\Final\ClassLibraryShapes\obj\Debug\ClassLibraryShapes.csproj.CoreCompileInputs.cache
+C:\Users\Viki\Desktop\Final\ClassLibraryShapes\obj\Debug\ClassLibraryShapes.dll
+C:\Users\Viki\Desktop\Final\ClassLibraryShapes\obj\Debug\ClassLibraryShapes.pdb

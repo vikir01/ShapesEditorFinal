@@ -1,0 +1,56 @@
+C:\viki\C#\ShapesEditor(2)\ShapesEditor\bin\Debug\ShapesEditor.exe.config
+C:\viki\C#\ShapesEditor(2)\ShapesEditor\bin\Debug\ShapesEditor.exe
+C:\viki\C#\ShapesEditor(2)\ShapesEditor\bin\Debug\ShapesEditor.pdb
+C:\viki\C#\ShapesEditor(2)\ShapesEditor\obj\Debug\ShapesEditor.csprojAssemblyReference.cache
+C:\viki\C#\ShapesEditor(2)\ShapesEditor\obj\Debug\ShapesEditor.FormProperties.resources
+C:\viki\C#\ShapesEditor(2)\ShapesEditor\obj\Debug\ShapesEditor.Form1.resources
+C:\viki\C#\ShapesEditor(2)\ShapesEditor\obj\Debug\ShapesEditor.Properties.Resources.resources
+C:\viki\C#\ShapesEditor(2)\ShapesEditor\obj\Debug\ShapesEditor.csproj.GenerateResource.cache
+C:\viki\C#\ShapesEditor(2)\ShapesEditor\obj\Debug\ShapesEditor.csproj.CoreCompileInputs.cache
+C:\viki\C#\ShapesEditor(2)\ShapesEditor\obj\Debug\ShapesEditor.exe
+C:\viki\C#\ShapesEditor(2)\ShapesEditor\obj\Debug\ShapesEditor.pdb
+C:\viki\C#\ShapesEditor\bin\Debug\ShapesEditor.exe.config
+C:\viki\C#\ShapesEditor\bin\Debug\ShapesEditor.exe
+C:\viki\C#\ShapesEditor\bin\Debug\ShapesEditor.pdb
+C:\viki\C#\ShapesEditor\obj\Debug\ShapesEditor.csprojAssemblyReference.cache
+C:\viki\C#\ShapesEditor\obj\Debug\ShapesEditor.FormProperties.resources
+C:\viki\C#\ShapesEditor\obj\Debug\ShapesEditor.Form1.resources
+C:\viki\C#\ShapesEditor\obj\Debug\ShapesEditor.Properties.Resources.resources
+C:\viki\C#\ShapesEditor\obj\Debug\ShapesEditor.csproj.GenerateResource.cache
+C:\viki\C#\ShapesEditor\obj\Debug\ShapesEditor.csproj.CoreCompileInputs.cache
+C:\viki\C#\ShapesEditor\obj\Debug\ShapesEditor.exe
+C:\viki\C#\ShapesEditor\obj\Debug\ShapesEditor.pdb
+C:\viki\C#\ShapesEditor\bin\Debug\ClassLibraryShapes.dll
+C:\viki\C#\ShapesEditor\bin\Debug\ClassLibraryShapes.pdb
+C:\viki\C#\ShapesEditor\obj\Debug\ShapesEditor.csproj.CopyComplete
+C:\viki\C#\Almost final\ShapesEditor\bin\Debug\ShapesEditor.exe.config
+C:\viki\C#\Almost final\ShapesEditor\bin\Debug\ShapesEditor.exe
+C:\viki\C#\Almost final\ShapesEditor\bin\Debug\ShapesEditor.pdb
+C:\viki\C#\Almost final\ShapesEditor\bin\Debug\ClassLibraryShapes.dll
+C:\viki\C#\Almost final\ShapesEditor\bin\Debug\ClassLibraryShapes.pdb
+C:\viki\C#\Almost final\ShapesEditor\obj\Debug\ShapesEditor.csprojAssemblyReference.cache
+C:\viki\C#\Almost final\ShapesEditor\obj\Debug\ShapesEditor.FormProperties.resources
+C:\viki\C#\Almost final\ShapesEditor\obj\Debug\ShapesEditor.Form1.resources
+C:\viki\C#\Almost final\ShapesEditor\obj\Debug\ShapesEditor.Properties.Resources.resources
+C:\viki\C#\Almost final\ShapesEditor\obj\Debug\ShapesEditor.csproj.GenerateResource.cache
+C:\viki\C#\Almost final\ShapesEditor\obj\Debug\ShapesEditor.csproj.CoreCompileInputs.cache
+C:\viki\C#\Almost final\ShapesEditor\obj\Debug\ShapesEditor.csproj.CopyComplete
+C:\viki\C#\Almost final\ShapesEditor\obj\Debug\ShapesEditor.exe
+C:\viki\C#\Almost final\ShapesEditor\obj\Debug\ShapesEditor.pdb
+C:\viki\C#\Almost final\ShapesEditor\obj\Debug\ShapesEditor.FormPropertiesSquare.resources
+C:\Users\Viki\Desktop\Final\ShapesEditor\bin\Debug\ShapesEditor.exe.config
+C:\Users\Viki\Desktop\Final\ShapesEditor\bin\Debug\ShapesEditor.exe
+C:\Users\Viki\Desktop\Final\ShapesEditor\bin\Debug\ShapesEditor.pdb
+C:\Users\Viki\Desktop\Final\ShapesEditor\bin\Debug\ClassLibraryShapes.dll
+C:\Users\Viki\Desktop\Final\ShapesEditor\bin\Debug\ClassLibraryShapes.pdb
+C:\Users\Viki\Desktop\Final\ShapesEditor\obj\Debug\ShapesEditor.csproj.AssemblyReference.cache
+C:\Users\Viki\Desktop\Final\ShapesEditor\obj\Debug\ShapesEditor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Viki\Desktop\Final\ShapesEditor\obj\Debug\ShapesEditor.FormProperties.resources
+C:\Users\Viki\Desktop\Final\ShapesEditor\obj\Debug\ShapesEditor.FormPropertiesSquare.resources
+C:\Users\Viki\Desktop\Final\ShapesEditor\obj\Debug\ShapesEditor.Form1.resources
+C:\Users\Viki\Desktop\Final\ShapesEditor\obj\Debug\ShapesEditor.Properties.Resources.resources
+C:\Users\Viki\Desktop\Final\ShapesEditor\obj\Debug\ShapesEditor.csproj.GenerateResource.cache
+C:\Users\Viki\Desktop\Final\ShapesEditor\obj\Debug\ShapesEditor.csproj.CoreCompileInputs.cache
+C:\Users\Viki\Desktop\Final\ShapesEditor\obj\Debug\ShapesEditor.csproj.CopyComplete
+C:\Users\Viki\Desktop\Final\ShapesEditor\obj\Debug\ShapesEditor.exe
+C:\Users\Viki\Desktop\Final\ShapesEditor\obj\Debug\ShapesEditor.pdb
